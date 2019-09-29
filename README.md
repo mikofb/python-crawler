@@ -1,5 +1,5 @@
 <p>
-	A small crawler for retrieving links from a given URL. :smile:
+	A small crawler for retrieving links from a given URL.
 </p>
 
 ## INSTALLATION
