@@ -1,5 +1,5 @@
 """
-	This a crawler developped in python.
+	A small crawler for retrieving links from a given URL.
 	It goes throught an URL and returns	all the links found there.
 	
 	[Requires]:
